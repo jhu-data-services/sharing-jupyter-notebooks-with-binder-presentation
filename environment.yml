@@ -1,4 +1,8 @@
 name: binder-tutorial
+channels:
+  - conda-forge
+  - defaults
 dependencies:
   - ipykernel
   - rise
+
